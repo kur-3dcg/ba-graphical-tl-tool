@@ -4,6 +4,7 @@ https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/akane_uniform.png	アカネ（制服）
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/akari_newyear.png	アカリ（正月）
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/ako.png	アコ
+https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/azusa_racing.png	アズサ（レーシング）
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/atsuko_swimsuit.png	アツコ（水着）
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/ayane.png	アヤネ
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/ayane_swimsuit.png	アヤネ（水着）
@@ -79,6 +80,7 @@ https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/yuzu_maid.png	ユズ（メイド）
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/yuzu_rinsen.png	ユズ（臨戦）
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/yoshimi.png	ヨシミ
+https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/rana.png	ラナ
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/rio.png	リオ
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/ritsu.png	リツ
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/sp/reisa_magic.png	レイサ（マジカル）

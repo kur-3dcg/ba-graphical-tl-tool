@@ -123,14 +123,14 @@ https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hinata.png	ヒナタ
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hibiki_cheerleader.png	ヒビキ（応援団）
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hifumi.png	ヒフミ
+https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hifumi_racing.png	ヒフミ（レーシング）
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hiyori_swimsuit.png	ヒヨリ（水着）
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/fi-na.png	フィーナ
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/fubuki.png	フブキ
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/fuyu.png	フユ
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hoshino.png	ホシノ
-https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hoshino_rinsen_a.png	ホシノ（攻撃）
+https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hoshino_rinsen.png	ホシノ（臨戦）
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hoshino_swimsuit.png	ホシノ（水着）
-https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/hoshino_rinsen_d.png	ホシノ（防御）
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/maki.png	マキ
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mari-_idol.png	マリー（アイドル）
 https://raw.githubusercontent.com/kur-3dcg/blue-archive-faceimage/main/images/st/mari-_gym.png	マリー（体操服）

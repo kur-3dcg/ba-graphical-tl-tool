@@ -16,6 +16,7 @@ import { PagesView, pageFileName } from './components/PagesView';
 import { TextOutput } from './components/TextOutput';
 import { SettingsPanel } from './components/SettingsPanel';
 import { FormatHelp } from './components/FormatHelp';
+import { HamburgerMenu } from './components/HamburgerMenu';
 
 const SAMPLE = `開始SET ユウカ ホシノ ヒフミ キサキ
 3:55 ユウカ 時間指定
@@ -133,6 +134,7 @@ export default function App() {
           >
             ？ 書き方
           </button>
+          <HamburgerMenu />
         </header>
         {showHelp && <FormatHelp />}
         {tab === 'edit' && (
